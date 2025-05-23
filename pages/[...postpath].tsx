@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://www.profitableratecpm.com/fq9aa2923n?key=051b00422e8d1e15fa4474b94915cf56/`
+					`https://natureeddszbeautyandgirlsdpz.blogspot.com/`
 				}`,
 			},
 		};
